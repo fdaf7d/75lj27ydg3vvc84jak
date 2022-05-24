@@ -1,0 +1,12 @@
+{
+"companyName": "Subway Runner",
+"productName": "Subway Runner",
+"dataUrl": "subrun.data.unityweb",
+"wasmCodeUrl": "subrun.wasm.code.unityweb",
+"wasmFrameworkUrl": "subrun.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
